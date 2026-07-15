@@ -1,9 +1,9 @@
 # Site Settings
 locale                   : "en-GB"
-title                    : "William Fawson"
+title                    : "William Fawson, PhD"
 title_separator          : "-"
 subtitle                 : ""
-name                     : "William Fawson"
+name                     : "William Fawson, PhD"
 description              : "Research on reputation, morality, and prosocial behaviour."
 url                      : "https://williamfawson.github.io"
 baseurl                  : ""
