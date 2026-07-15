@@ -24,7 +24,6 @@ author:
   linkedin         : "wfawson"
 
 # Build settings
-theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
