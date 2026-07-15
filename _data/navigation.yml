@@ -5,5 +5,5 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "CV"
-    url: /files/FAWSON_William_CV.pdf
+  #- title: "CV"
+  #  url: /files/FAWSON_William_CV.pdf
