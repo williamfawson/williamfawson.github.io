@@ -13,10 +13,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-   - title: "CV"
+      
+  - title: "CV"
      url: /files/FAWSON_William_CV.pdf/
     
