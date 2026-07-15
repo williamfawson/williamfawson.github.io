@@ -16,12 +16,12 @@ author:
   bio              : "Postdoctoral Research Fellow<br>London Business School"
   location         : "London, United Kingdom"
   employer         : "London Business School"
-  email            : "YOUR.EMAIL@LBS.AC.UK"
+  email            : "wfawson@london.edu"
 
   googlescholar    : ""
   orcid            : ""
   github           : "williamfawson"
-  linkedin         : ""
+  linkedin         : "wfawson"
 
 # Build settings
 theme: minimal-mistakes-jekyll
