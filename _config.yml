@@ -18,9 +18,9 @@ author:
   employer         : "London Business School"
   email            : "wfawson@london.edu"
 
-  googlescholar    : ""
-  orcid            : ""
-  github           : "williamfawson"
+  googlescholar    : #""
+  orcid            : #""
+  github           : #""
   linkedin         : "wfawson"
 
 # Build settings
