@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /
 author_profile: true
-permalink: /redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
