@@ -14,6 +14,8 @@ Powerful leaders have a disproportionate capacity to harm others, yet their foll
 **Read more:** [Preprint](/files/PtP_Preprint.pdf) | [Forbes](https://www.forbes.com/sites/lbsbusinessstrategyreview/2026/02/05/career-capital--why-it-pays-to-challenge-powerful-wrongdoers/) | [Think](https://www.london.edu/think/moral-courage-is-a-leadership-competency/) | [Open Science](https://osf.io/285xg/overview?view_only=ebe6c4af1b9a499d974dee0df9cae55f)
 
 
+
+
 # Right to Brag? The Reputational Consequences of Disclosing Prosocial Behavior
 
 Currently under review at the *Journal of Personality and Social Psychology*
