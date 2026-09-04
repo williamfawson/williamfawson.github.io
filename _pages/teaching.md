@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Personal Assessment and Development
-At **London Business School**, I teach Personal Assessment & Development in the Masters in Finance programme each year. There are typically around 170 international students with an average of five years' work experience. The course consists of 10 hours intensive learning that blends lectures, case discussions and group exercises. We cover a range of topics, including cross-cultural leadership, influence, and personality traits.
+At **London Business School**, I teach Personal Assessment & Development in the Masters in Finance programme each year. There are typically around 150 international students with an average of siz years' work experience. The course consists of 11 hours intensive learning that blends lectures, case discussions and group exercises. We cover a range of topics, including cross-cultural leadership, influence, and personality traits.
 
 I received a rating of 4.73/5 (based on 62 student surveys) in the 2025/26 academic year. Student comments about the course included:
 - "I found the course truly outstanding. Despite being just a few sessions, I gained far more insights than I ever expected. I now have a clearer understanding of what makes a good leader and feel better prepared to take on leadership roles and navigate situations involving people from different cultures and personalities."
