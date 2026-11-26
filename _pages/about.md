@@ -10,7 +10,7 @@ redirect_from:
 
 I am a **Postdoctoral Research Fellow** at **London Business School**, currently on the academic job market for **Assistant Professor positions in Organisational Behaviour**.
 
-My research examines how people navigate hierarchy in organisations. Specifically, I study how hierarchy shapes people’s feelings, thoughts, and behaviours at work. My research is currently under revise and resubmit at the *Journal of Experimental Psychology: General*, has been conditionally accepted at *Nature Human Behaviour*, and has been featured in *Forbes* and *Think*. I was recently awarded **Early Career Scholar** by the *International Association for Conflict Management*.
+My research examines how people navigate hierarchy in organisations. Specifically, I study how hierarchy shapes people’s behaviours at work. My research is currently under revision at the *Journal of Experimental Psychology: General* and the *Journal of Personality and Social Psychology*, has been published at *Nature Human Behaviour*, and has been featured in *Forbes* and *Think*. I was recently awarded **Early Career Scholar** by the *International Association for Conflict Management*.
 
 At London Business School, I teach Personal Assessment & Development to students in the Masters in Finance program. I am also a guest lecturer in the Power & Influence MBA elective at IESE Business School, where I earned my PhD.
 
